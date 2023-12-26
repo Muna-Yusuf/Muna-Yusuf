@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, This is Muna Yusuf</h1>
 <h3 align="center">A software developer focused on back-end.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muna-yusuf&label=Profile%20views&color=0e75b6&style=flat" alt="muna-yusuf" /> </p>
 
 - 🔭 I’m currently learning at **ALX-Holberton School**
