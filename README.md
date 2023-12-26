@@ -1,3 +1,4 @@
+<img src='https://github.com/Muna-Yusuf/Muna-Yusuf/blob/main/Technology%20Design.gif' align='center' height='400' width='1200'/>
 <h1 align="center">Hi 👋, This is Muna Yusuf</h1>
 <h3 align="center">A software developer focused on back-end.</h3>
 
